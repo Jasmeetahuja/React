@@ -6,7 +6,7 @@ class Search extends Component {
         return(
             <div className="main_search">
                 <form>
-                    <input type="text">
+                    <input type="text"/>
                 </form>
             </div>
         )
